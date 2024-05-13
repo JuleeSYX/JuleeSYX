@@ -1,6 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Julee+SAYAXANG!;" />
 </h1>
+<div align="center">
+    <div class="tenor-gif-embed" data-postid="17808955" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+    <a href="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808955">Code Encoding Sticker</a>from <a href="https://tenor.com/search/code-stickers">Code Stickers</a>
+    </div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 <h3 align="center">Passionate software developer from Laos</h3>
 
