@@ -1,21 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julee SAYAXANG
-=======================================================================================================================================
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Julee+SAYAXANG!;" />
+</h1>
 
-Full Stack Web Developer
-------------------------------
+<h3 align="center">Passionate software developer from Laos</h3>
 
-* 🌍  I'm based in Vientiane
-* ✉️  You can contact me at [sayaxang1998@gmail.com](mailto:sayaxang1998@gmail.com)
-* 🧠  I'm learning TypeScript, Python and Server
-* 🤝  I'm open to collaborating on AI Project
+<br/>
 
-<a href="https://www.github.com/JuleeSYX" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JuleeSYX?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<div align="center">
+ 
+ 📍🗺️ I'm based in Vientiane
+ 
+🌱 I’m currently learning **Docker, Supabase, AWS**
 
-### Skills
+✉️  You can contact me at [sayaxang1998@gmail.com](mailto:sayaxang1998@gmail.com)
 
+🤝 I'm open to collaborating on AI Project
 
-<p align="left">
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:sayaxang1998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<div align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -43,24 +57,25 @@ src="https://img.shields.io/github/followers/JuleeSYX?logo=github&style=for-the-
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+</div>
 
+<br/>
+<hr/>
 
-### Socials
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=JuleeSYX&theme=terafox&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JuleeSYX&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JuleeSYX&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="left"> <a href="https://www.github.com/JuleeSYX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<br/><br/>
 
-### Badges
+<hr/>
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/JuleeSYX"><img src="https://github-readme-stats.vercel.app/api?username=JuleeSYX&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JuleeSYX's GitHub stats" /></a>
-
-<a href="http://www.github.com/JuleeSYX"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuleeSYX&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/JuleeSYX"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JuleeSYX&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/JuleeSYX" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuleeSYX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
+<br/>
