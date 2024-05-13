@@ -5,7 +5,7 @@
     <img src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif" width="100"/>
 </div>
 
-<h3 align="center">Passionate software developer from Laos</h3>
+<h3 align="center">🛠️ Passionate software developer from Laos</h3>
 
 <br/>
 
@@ -14,8 +14,6 @@
  📍🗺️ I'm based in Vientiane
  
 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-✉️  You can contact me at [sayaxang1998@gmail.com](mailto:sayaxang1998@gmail.com)
 
 🤝 I'm open to collaborating on AI Project
 
@@ -60,7 +58,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🔥 My Stats 🔥</h2>
 <br>
 <div align=center>
     
